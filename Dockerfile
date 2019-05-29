@@ -1,4 +1,5 @@
-FROM node
+# Parent image
+FROM node:alpine
 
 MAINTAINER BAREXTE <barexte@gmail.com>
 
